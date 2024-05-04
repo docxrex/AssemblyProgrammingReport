@@ -146,9 +146,9 @@ body{
     cursor: pointer;
     border-radius: 5px;
     transition: all 0.3s ease;
+    position: absolute;
     top: 15900px; 
     left: 40%;
-    position: absolute;
     display: block; 
 }
 
