@@ -106,7 +106,7 @@ body{
     width: 100%;
 }
 
-button{
+#button{
     position: absolute;
     top: 6070px; /* Adjust the position of the button */
     right: 90px; /* Adjust the position of the button */
@@ -121,7 +121,7 @@ button{
     transition: all 0.3s ease;
 }
 
-button:hover{
+#button:hover{
     background-color: #02305e;
     color: white;
     scale: 1.1;
